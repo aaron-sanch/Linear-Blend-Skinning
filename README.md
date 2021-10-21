@@ -10,6 +10,7 @@ This is meant to be run using OpenGL, and while I will not go into extensive det
 # Commands while Running
 * Ctrl + Click Drag to zoom in/out
 * 'z' shows vertex view of the obj
+* Space to start dancing
 * If you go into the data folder and look at input.txt, you can change which meshes are being used in the animation.
 
 # Recreating the Project
